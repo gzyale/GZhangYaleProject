@@ -1,0 +1,58 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@ys4057-ib>
+Subject: Job 474836: <runscript> in cluster <yellowstone> Done
+
+Job <runscript> was submitted from host <yslogin6-ib> by user <gang> in cluster <yellowstone>.
+Job was executed on host(s) <ys4057-ib>, in queue <regular>, as user <gang> in cluster <yellowstone>.
+</glade/u/home/gang> was used as the home directory.
+</glade/p/uyle0010/20090628IN6km/WRF341_nolatentheating/wrf_diag_package/gravitywave/timeseries> was used as the working directory.
+Started at Thu Apr  7 01:38:10 2016
+Results reported on Thu Apr  7 02:03:11 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/csh
+#
+# LSF batch script to run the test MPI code
+#
+#BSUB -P UYLE0010                       # Project 99999999
+#BSUB -a poe                            # select poe
+#BSUB -x                                # exclusive use of node (not_shared)
+#BSUB -n 1                             # number of total (MPI) tasks
+#BSUB -R "span[ptile=1]"               # run a max of 32 tasks per node
+#BSUB -J runscript                           # job name
+#BSUB -o runarwpost%J.out                     # output filename
+#BSUB -e runarwpost%J.err                     # error filename
+#BSUB -W 4:00                           # wallclock time
+#BSUB -q regular                       # queue
+#
+mpirun.lsf ./script_figures.sh >script_figures.out
+exit
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1466.47 sec.
+    Max Memory :                                 602 MB
+    Average Memory :                             415.67 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              7
+    Max Threads :                                23
+    Run time :                                   1500 sec.
+    Turnaround time :                            1525 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <runarwpost474836.err> for stderr output of this job.
+

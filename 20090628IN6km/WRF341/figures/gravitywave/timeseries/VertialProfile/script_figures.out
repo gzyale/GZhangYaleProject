@@ -1,0 +1,134 @@
+Execute poe command line: poe  ./script_figures.sh
+Started!
+I am in /glade/p/uyle0010/20090628IN6km/WRF341/figures/gravitywave/VertialProfile/EFx
+ Copyright (C) 1995-2015 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.3.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In clf at 29] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In /glade/u/ssg/ys/opt/matlab/R2012b/toolbox/matlab/graphics/hardcopy.p>hardcopy at 28
+  In graphics/private/render at 142
+  In print>LocalPrint at 280
+  In print at 237] 
+>> >> [Warning: Objects of graph2d.lineseries class exist - not clearing this class
+or any of its superclasses] 
+ Copyright (C) 1995-2015 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.3.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In clf at 29] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In /glade/u/ssg/ys/opt/matlab/R2012b/toolbox/matlab/graphics/hardcopy.p>hardcopy at 28
+  In graphics/private/render at 142
+  In print>LocalPrint at 280
+  In print at 237] 
+>> >> [Warning: Objects of graph2d.lineseries class exist - not clearing this class
+or any of its superclasses] 
+I am in /glade/p/uyle0010/20090628IN6km/WRF341/figures/gravitywave/VertialProfile/MFx
+ Copyright (C) 1995-2015 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.3.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In clf at 29] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In /glade/u/ssg/ys/opt/matlab/R2012b/toolbox/matlab/graphics/hardcopy.p>hardcopy at 28
+  In graphics/private/render at 142
+  In print>LocalPrint at 280
+  In print at 237] 
+>> >> [Warning: Objects of graph2d.lineseries class exist - not clearing this class
+or any of its superclasses] 
+I am in /glade/p/uyle0010/20090628IN6km/WRF341/figures/gravitywave/VertialProfile/U
+ Copyright (C) 1995-2015 - All Rights Reserved
+ University Corporation for Atmospheric Research
+ NCAR Command Language Version 6.3.0
+ The use of this software is governed by a License Agreement.
+ See http://www.ncl.ucar.edu/ for more details.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2012 The MathWorks, Inc.
+                    R2012b (8.0.0.783) 64-bit (glnxa64)
+                              August 22, 2012
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In clf at 29] 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> [Warning: This functionality is no longer supported under the -nojvm startup
+option. For more information, see "Changes to -nojvm Startup Option" in the
+MATLAB Release Notes. To view the release note in your system browser, run
+web('http://www.mathworks.com/access/helpdesk/help/techdoc/rn/bropbi9-1.html#brubkzc-1',
+'-browser')] 
+[> In /glade/u/ssg/ys/opt/matlab/R2012b/toolbox/matlab/graphics/hardcopy.p>hardcopy at 28
+  In graphics/private/render at 142
+  In print>LocalPrint at 280
+  In print at 237] 
+>> >> [Warning: Objects of graph2d.lineseries class exist - not clearing this class
+or any of its superclasses] 
+Done!

@@ -1,0 +1,10 @@
+'reinit'
+'open ../../../../ARWpost/2009IN6km.ctl'
+'set fwrite rainfall.bin'
+'set t 1 169'
+'set gxout fwrite'
+'d aave(rainnc,x=174,x=210,y=111,y=130)'
+
+'disable fwrite'
+'close 1'
+
